@@ -1,3 +1,4 @@
 {
-    "item.testmod.maxwell": "Maxwell"
+    "item.testmod.maxwell": "Maxwell",
+    "block.testmod.maxwell": "Maxwell block"
 }
